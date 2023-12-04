@@ -65,3 +65,5 @@ __F. Integrated Development Environment (IDE)__
 * IDE atau Integrated Development Environment adalah software atau perangkat lunak yang digunakan oleh programmer untuk membuat sebuah program komputer atau sebagai tempat pengembangan aplikasi. Berbeda dengan text editor seperti notepad, IDE merupakan text editor yang memiliki compiler dan debugger sekaligus sehingga memungkinkan sebuah program dapat ditulis, diuji, dan dijalankan dalam satu aplikasi. IDE memiliki banyak fitur yang mendukung proses pemrograman. Contohnya adalah DevC++, Microsoft Visual Studio, CodeBlocks, NetBeans, Eclips, dll.
 
 [link download IDE Dev-C++](https://www.embarcadero.com/free-tools/dev-cpp/free-download)
+
+<p>Find me on Instagram <a href="https://www.instagram.com/setyacarinaa/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@setyacarinaa!</a><br/>
