@@ -1,3 +1,5 @@
+<img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/blob/main/header%20readme.gif" width="1000" height="260"/>
+
 # Praktikum Algoritma Pemrograman
 ### Laporan praktikum ini berisi penjelasan materi dari jobsheet yang diberikan dosen pengampu lengkap beserta latihan dan tugas (codingan dan screenshot hasil run program).
 
@@ -11,14 +13,6 @@
 * __Dosen Pengampu: Randi Proska Sandra, M.Sc__
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-__Tujuan Pembelajaran__
-
-1. Mampu memahami, menjelaskan, mengaplikasikan algoritma melalui pemrograman.
-2. Mempu memahami cara instalasi, fungsi dan penggunaan IDE.
-3. Mampu membuat, mengkompilasi, menganalisis kesalahan dalam pemrograman menggunakan IDE.
-
----
 
 #### Uraian Materi
 
