@@ -1,10 +1,17 @@
-# Jobsheet 1
-## Algoritma, Pemrograman, dan IDE
----
+# Praktikum Algoritma Pemrograman
+### Laporan praktikum ini berisi penjelasan materi dari jobsheet yang diberikan dosen pengampu lengkap beserta latihan dan tugas (codingan dan screenshot hasil run program).
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 * __Nama: Setya Carina Rianti__
 * __NIM: 23343054__
 * __Prodi: Informatika(NK)__
----
+* __Kode Kelas: INF1.62.1008__
+* __Seksi: 202313430012__
+* __Dosen Pengampu: Randi Proska Sandra, M.Sc__
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 __Tujuan Pembelajaran__
 
 1. Mampu memahami, menjelaskan, mengaplikasikan algoritma melalui pemrograman.
