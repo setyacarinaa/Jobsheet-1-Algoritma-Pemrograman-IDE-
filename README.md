@@ -52,10 +52,9 @@ Ada dua cara pembuatan konstanta pada C:
 <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/4b13069e-1a56-421f-9d45-bbd273e1be4d" height="130" width="390"/></a> <br>
 
 * Menurut Wikipedia Tipe data atau kadang disingkat dengan ‘tipe’ saja adalah sebuah pengelompokan data untuk memberitahu compiler atau interpreter bagaimana programmer ingin mengolah data tersebut. Ada delapan jenis tipe data pada C:</a> <br>
-
-    | Char | Integer | Float | Array | 
-    | :---: | :---: | :---: | :---: |
-    | Structure | Pointer | Enum | Void | 
+  | Char | Integer | Float | Array | 
+  | :---: | :---: | :---: | :---: |
+  | Structure | Pointer | Enum | Void | 
 
 </details>
 <details><summary><h3>4. Operator</h3></summary>
@@ -88,7 +87,7 @@ Ada dua cara pembuatan konstanta pada C:
      Percabangan switch case adalah bentuk lain dari percabangan if/else/if.
      <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/dff28771-ce95-4e05-b568-a56c5452ed1b" height="240" width="500"/></a> <br>
   5. Percabangan Operator Ternary<br>
-     Percabangan menggunakan opreator ternary merupakan bentuk lain dari percabangan if/else. Bisa dibilang: Bentuk singkatnya dari if/else. Operator ternary juga dikenal dengan sebutan operator kondisi (conditional operator).
+     Percabangan menggunakan opreator ternary merupakan bentuk lain dari percabangan if/else. Bisa dibilang: Bentuk singkatnya dari if/else. Operator ternary juga dikenal dengan sebutan operator kondisi (conditional operator).<br>
      <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/f6c7fadf-2f45-45c8-9b33-4a272ccfa831" height="70" width="500"/>
   6. Percabangan Bersarang<br>
      Semua bentuk blok percabangan di atas dapat kita buat di dalam percabangan yang lainnya. Ini disebut dengan percabangan bersarang atau nested if.<br>
