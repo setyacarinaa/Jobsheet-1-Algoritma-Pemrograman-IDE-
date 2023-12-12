@@ -75,16 +75,16 @@ Ada dua cara pembuatan konstanta pada C:
 * C menyediakan sejumlah pernyataan aliran kontrol (juga disebut pernyataan Flow Control), yang merupakan pernyataan yang memungkinkan pemrogram untuk mengubah jalur eksekusi normal melalui program. Istilah lainnya adalah percabangan, struktur kondisi, struktur if, dsb.
 * Untuk keperluan pengambilan keputusan, C menyediakan beberapa jenis pernyataan, berupa:
   1. Pernyataan if<br>
-     Percabangan if merupakan percabangan yang hanya memiliki satu blok pilihan saat kondisi bernilai benar.
+     Percabangan if merupakan percabangan yang hanya memiliki satu blok pilihan saat kondisi bernilai benar.<br>
      <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/4ce9fc7b-eb42-4ab4-be28-015605b22bd7" height="80" width="500"/>
   2. Pernyataan if else<br>
      Percabangan if/else merupakan percabangan yang memiliki dua blok pilihan. Blok pilihan pertama untuk kondisi benar, dan pilihan kedua untuk kondisi salah (else).<br>
      <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/f1d2191b-819d-4a80-875d-5d7290604cc8" height="270" width="500"/></a> <br>
   3. Pernyataan if else if<br>
-     Percabangan if/else/if merupakan percabangan yang memiliki lebih dari dua blok pilihan.
+     Percabangan if/else/if merupakan percabangan yang memiliki lebih dari dua blok pilihan.<br>
      <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/44ffa0b6-aaf8-428d-ba54-cd41dc4af783" height="390" width="535"/></a> <br>
   4. Pernyataan Switch Case<br>
-     Percabangan switch case adalah bentuk lain dari percabangan if/else/if.
+     Percabangan switch case adalah bentuk lain dari percabangan if/else/if.<br>
      <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/dff28771-ce95-4e05-b568-a56c5452ed1b" height="240" width="500"/></a> <br>
   5. Percabangan Operator Ternary<br>
      Percabangan menggunakan opreator ternary merupakan bentuk lain dari percabangan if/else. Bisa dibilang: Bentuk singkatnya dari if/else. Operator ternary juga dikenal dengan sebutan operator kondisi (conditional operator).<br>
@@ -98,7 +98,7 @@ Ada dua cara pembuatan konstanta pada C:
 
 * Loop adalah konstruksi aliran kontrol yang memungkinkan sepotong kode untuk dieksekusi secara berulang kali hingga beberapa kondisi terpenuhi. Loop ini memberikan kemudahan dalam pemrograman Anda, karena memungkinkan Anda melakukan banyak hal secara berulang tapi dengan program yang ringkas.
     1. Perulangan For pada C<br>
-       Perulangan for merupakan perulangan yang termasuk dalam couted loop, karena sudah jelas berapa kali ia akan mengulang.
+       Perulangan for merupakan perulangan yang termasuk dalam couted loop, karena sudah jelas berapa kali ia akan mengulang.<br>
        <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/e92f57eb-f7af-4eef-80d3-1329f7314552" height="70" width="500"/><br>
        Yang perlu diperhatikan adalah kondisi yang ada di dalam kurung setelah kata for. Kondisi ini akan menentukan:<br>
        • Hitungan akan dimulai dari 0 (i = 0);<br>
@@ -106,10 +106,10 @@ Ada dua cara pembuatan konstanta pada C:
        • Lalu di setiap perulangan i akan bertambah +1 (i++).<br>
        Variabel i pada perulangan for berfungsi untuk menyimpan nilai hitungan.
     2. Perulangan While pada C<br>
-       Perulangan while merupakan perulangan yang termasuk dalam perulangan uncounted loop. Perulangan while juga dapat menjadi perulangan yang counted loop dengan memberikan counter di dalamnya.
+       Perulangan while merupakan perulangan yang termasuk dalam perulangan uncounted loop. Perulangan while juga dapat menjadi perulangan yang counted loop dengan memberikan counter di dalamnya.<br>
        <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/315fb7e8-78ea-4757-b3e8-e6f73dfb9e37" height="150" width="500"/>
     3. Perulangan Do While pada C<br>
-       Perulangan do while sama seperti perulangan while. Perbedaanya: Perulangan do while akan melakukan perulangan sebanyak 1 kali terlebih dahulu, lalu mengecek kondisi yang ada di dalam kurung while.
+       Perulangan do while sama seperti perulangan while. Perbedaanya: Perulangan do while akan melakukan perulangan sebanyak 1 kali terlebih dahulu, lalu mengecek kondisi yang ada di dalam kurung while.<br>
        <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/ace9ec73-0a16-41fc-b6dd-7d08a44345ab" height="100" width="500"/>
     4. Perulangan Bersarang (Nested Loop)<br>
        Di dalam blok perulangan, kita juga dapat membuat perulangan. Ini disebut dengan nested loop atau perulangan bersarang atau perulangan di dalam perualangan.<br>
@@ -119,7 +119,7 @@ Ada dua cara pembuatan konstanta pada C:
 <details><summary><h3>7. Struktur Data: Array</h3></summary>
 
 * Array merupakan struktur data yang digunakan untuk menyimpan sekumpulan data dalam satu tempat, array ini juga disebut dengan istilah larik. Setiap data dalam Array memiliki indeks, sehingga kita akan mudah memprosesnya seperti mengakses atau mengganti datanya.
-* Array akan menyimpan sekumpulan data dan memberinya nomer indeks agar mudah diakses. Indeks array selalu dimulai dari nol 0.
+* Array akan menyimpan sekumpulan data dan memberinya nomer indeks agar mudah diakses. Indeks array selalu dimulai dari nol 0.<br>
   <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/13977cec-3959-41e2-b55d-c452ae860c60" height="130" width="500"/>
 * Array Multidimensi<br>
   Array yang kita buat pada contoh-contoh program di atas adalah array satu dimensi. Array bisa dibuat dua dimensi bahkan lebih. Array multidimensi biasanya digunakan untuk membuat matriks.<br>
@@ -142,8 +142,8 @@ Ada dua cara pembuatan konstanta pada C:
 * Fungsi Rekursif pada C<br>
 Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri. Biasanya kita memanggil fungsi pada fungsi main atau fungsi yang lainnya. Namun, pada fungsi rekursif, fungsi itu akan memanggil dirinya sendiri di dalam tubuh fungsi.
 * Variabel Lokal & Variabel Global<br>
-  > Variabel global adalah variabel yang bisa diakses dari semua fungsi.
-  > Variabel lokal adalah variabel yang hanya bisa diakses dari dalam fungsi itu sendiri.
+  Variabel global adalah variabel yang bisa diakses dari semua fungsi.
+  Variabel lokal adalah variabel yang hanya bisa diakses dari dalam fungsi itu sendiri.
 
 </details>
 <details><summary><h3>9. Pointer</h3></summary>
@@ -180,7 +180,7 @@ Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri. Biasanya kita mema
 1. Fungsi fopen() akan membuka file sesuai dengan mode yang kita berikan. Mode r artinya read atau baca saja. Selain mode r ada juga mode yang lain.
    * Fungsi fopen() akan menghasilkan sebuah pointer yang menunjuk ke alamat memori dari file yang akan dibuka, karena itulah kita membutuhkan pointer untuk mengaksesnya.<br>
      <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/045180f6-956e-4bbc-b8fc-230de7e2d29b" height="130" width="500"/><br>
-2. Fungsi fgets() akan membaca isi file yang ditunjuk oleh pointer fptr, kemudian hasilnya akan disimpan ke dalam variabel buff.
+2. Fungsi fgets() akan membaca isi file yang ditunjuk oleh pointer fptr, kemudian hasilnya akan disimpan ke dalam variabel buff.<br>
    * <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/a591129b-f11b-4843-8eec-15e1890c16c8" height="40" width="500"/><br>
 3. Fungsi fputs() akan menulis teks ke dalam file yang sedang dibuka.
 
