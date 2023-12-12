@@ -14,57 +14,48 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### Uraian Materi
+## Uraian Materi📜
 
-__A. Pengantar Algoritma__
+### __1. Algoritma, Pemrograman, dan IDE__
 * Algoritma adalah urutan langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan suatu masalah atau mencapai suatu tujuan tertentu. Sebuah algoritma mempunyai awal dan akhir. Algoritma adalah jantung ilmu komputer atau informatika. Banyak cabang ilmu komputer yang di acu dalam terminologi algoritma. Algoritma adalah jantung ilmu komputer atau informatika. Banyak cabang ilmu komputer yang di acu dalam terminologi algoritma.
+* Pemrograman adalah proses penulisan kode menjadi sebuah program. Pemrograman adalah suatu seni dalam menggunakan satu atau lebih algoritme yang saling berhubungan dengan menggunakan suatu bahasa pemrograman tertentu sehingga menjadi suatu program komputer. Untuk melakukan pemrograman dibutuhkan algoritma dan bahasa pemrograman. Sementara orang yang melakukan pemrograman disebut dengan programmer, sedangkan program adalah produk dari proses pemrograman yang dilakukan.
+* IDE atau Integrated Development Environment adalah software atau perangkat lunak yang digunakan oleh programmer untuk membuat sebuah program komputer atau sebagai tempat pengembangan aplikasi. Berbeda dengan text editor seperti notepad, IDE merupakan text editor yang memiliki compiler dan debugger sekaligus sehingga memungkinkan sebuah program dapat ditulis, diuji, dan dijalankan dalam satu aplikasi. IDE memiliki banyak fitur yang mendukung proses pemrograman. Contohnya adalah DevC++, Microsoft Visual Studio, CodeBlocks, NetBeans, dll.
+    <a href="https://www.embarcadero.com/free-tools/dev-cpp/free-download"><img src="https://img.shields.io/badge/DevC++-purple?style=plastic&logo=DevC++&logoColor=white"/></a>
+    <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/VSCode-purple?style=plastic&logo=VSCode&logoColor=white"/></a>
+    <a href="https://sourceforge.net/projects/codeblocks/"><img src="https://img.shields.io/badge/CodeBlocks-purple?style=plastic&logo=CodeBlocks&logoColor=white"/></a>
+    <a href="https://netbeans.apache.org/front/main/download/index.html"><img src="https://img.shields.io/badge/NetBeans-purple?style=plastic&logo=NetBeans&logoColor=white"/></a>
 
 
-| No  | Proses | Algoritma | Contoh Langkah dalam Algoritma |
-| ----- | --- | --- | --- |
-| 1 | Membuat Kue | Resep Kue | Masukan telur kedalam wajan, kocok sampai mengembang |
-| 2 | Membuat Pakaian | Pola Pakaian | Gunting kain dari pinggir kiri bawah ke arah kanan sejauh 5cm |
-| 3 | Merakit Mobil | Panduan Merakit | Sambungkan Komponen A ke komponen B |
+### __2. Pemrograman Dasar C__
+* Header file adalah file yang berisi definisi fungsi yang sudah dibuat. Tujuannya agar bisa digunakan pada program C yang lainnya. File ini berekstensi .h, contoh: stdio.h. Pada contoh di atas, kita mengimpor file stdio.h. File ini berisi deklarasi fungsi-fungsi dasar yang kita butuhkan untuk membuat program C, seperti printf().
+* Satu-satunya perintah yang harus ada di setiap kode program bahasa C adalah main(). Struktur main() sendiri pada dasarnya merupakan sebuah fungsi (function). Isi dari function ini diawali dan diakhiri dengan tanda kurung kurawal { dan } . Di dalam tanda kurung inilah “statement” dari kode program penyusun fungsi main() ditulis. Fungsi main() adalah fungsi utama dalam program. Fungsi ini akan dieksekusi pertamakali saat program dijalankan. Karena itu, kita harus menuliskan logika program di dalam fungsi ini.
+  
+  <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/674382d5-8ef8-442a-b0af-3eed6935b115" height="120" width="350"/>
 
-__B. Pemrograman__
-* Pemrograman adalah proses penulisan kode menjadi sebuah program. Dari sini kita dapat memahami dan membedakan antara pemrograman, bahasa pemrograman, program, programmer dan algoritma. Untuk melakukan pemrograman dibutuhkan algoritma dan bahasa pemrograman. Sementara orang yang melakukan pemrograman disebut dengan programmer, sedangkan program adalah produk dari proses pemrograman yang dilakukan.
-    
-__C. Perbedaan Coding dan Programming__
-* Coding merupakan sebuah aktivitas atau proses untuk menuliskan kode yang harus sesuai dengan aturan penulisan (syntax) tertentu dari bahasa pemrograman yang digunakan.
-1. Menerjemahkan bahasa manusia ke bahasa mesin.
-2. Cukup membutuhkan program text editor.
-3. Wajib mengetahui dasar tentang bahasa pemrograman syntax, dan kata kunci umum.
-4. Menghasilkan salah satu bagian dalam proyek programmer.
+* Maksud dari int di depan main adalah tipe data yang akan dikembalikan. Maka di dalam fungsi main(), wajib kita sertakan return 0. Artinya, fungsi main akan mengembalikan nilai 0 setelah selesai dieksekusi.
 
-* Coding merupakan sebuah aktivitas atau proses untuk menuliskan kode yang harus sesuai dengan aturan penulisan (syntax) tertentu dari bahasa pemrograman yang digunakan.
-1.  Menerjemahkan bahasa manusia ke bahasa mesin.
-2. Cukup membutuhkan program text editor.
-3. Wajib mengetahui dasar tentang bahasa pemrograman syntax, dan kata kunci umum.
-4.  Menghasilkan salah satu bagian dalam proyek programmer.
 
-__D. Bahasa Pemrograman__
-* Bahasa Pemrograman adalah instruksi standar untuk meminta sebuah komputer untuk menjalankan suatu fungsi tertentu. Bahasa pemrograman ini merupakan kumpulan aturan sintaks dan semantik yang dipakai untuk mendefinisikan program komputer.
+### __3. Variable, Konstanta, dan Tipe Data__
+* Variabel adalah sebuah tempat menyimpan sebuah nilai. Sementara tipe data adalah jenis nilai yang akan tersimpan dalam variabel. Pada pelajaran matematika, kita sering menemukan x dan y. x dan y ini disebut variabel, karena tugasnya menyimpan nilai.
 
-![Gambar Level of Programming Languages](https://www.meccanismocomplesso.org/wp-content/uploads/2020/10/Digital-calculators-and-programming-levels-02-640x599.jpg)
+  <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/94438c0e-36cf-49c3-ba40-1cb76fb68ede" height="60" width="650"/>
 
-__E. Pengenalan Bahasa C__
-* Bahasa C memang bagus untuk memperkenalkan konsep pemrograman bagi pemula yang belum pernah coding. Usia bahasa pemrograman C memang cukup tua, namun masih digunakan hingga saat ini. C (dibaca /si:/ seperti membaca huruf C dalam bahasa inggris) adalah sebuah bahasa pemrograman gerneral-purpose dan imperative yang mendukung pemrograman terstruktur dan rekursif. General-purpose artinya bisa digunakan untuk membuat program apa saja. Imperative artinya bahasa yang menggunakan statament.
+* Konstanta adalah sebuah nilai tetapan. Bisa juga dibilang sebagai variabel yang tidak bisa diubah nilainya.
+    Ada dua cara pembuatan konstanta pada C:
+1. Menggunakan #define
+   <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/538d18cb-41c3-4576-8c13-818cd3795dc5" height="130" width="390"/>
 
-* Bahasa pemrograman C memang tidak menempati urutan pertama. Tetapi, Bahasa C banyak menginspirasi bahasa-bahasa pemrograman yang lain seperti Java, Javascript, C++, C#, PHP, dsb. Bahasa-bahasa tersebut memiliki sintaks yang hampir sama dengan bahasa C. Bahkan C sampai dijuluki “God’s programming language”. Jadi dengan memahami bahasa C, akan mudah memahami bahasa-bahasa yang lainnya.
+3. Menggunakan const
+   <img src="https://github.com/setyacarinaa/Jobsheet-Praktikum-Algoritma-Pemrograman/assets/145129875/4b13069e-1a56-421f-9d45-bbd273e1be4d" height="130" width="390"/>
 
-* Berikut ini beberapa keuntungan belajar bahasa C: 
-1. Mudah memahami bahasa pemrograman yang lain, karena sintaknya hampir sama dengan C; 
-2. Bahasa C mudah dipelajari, cocok untuk pemula; 
-3. Bahasa C bisa digunakan di berbagai macam platform (Windows, Linux, MacOS, Android);
-4. Bahasa C masih digunakan hingga saat ini;
-5. Kode bahasa C sifatnya adalah portable dan fleksibel untuk semua jenis komputer.
+* Menurut Wikipedia:
+Tipe data atau kadang disingkat dengan ‘tipe’ saja adalah sebuah pengelompokan data untuk memberitahu compiler atau interpreter bagaimana programmer ingin mengolah data tersebut. Ada delapan jenis tipe data pada C:
 
-__F. Integrated Development Environment (IDE)__
-* IDE atau Integrated Development Environment adalah software atau perangkat lunak yang digunakan oleh programmer untuk membuat sebuah program komputer atau sebagai tempat pengembangan aplikasi. Berbeda dengan text editor seperti notepad, IDE merupakan text editor yang memiliki compiler dan debugger sekaligus sehingga memungkinkan sebuah program dapat ditulis, diuji, dan dijalankan dalam satu aplikasi. IDE memiliki banyak fitur yang mendukung proses pemrograman. Contohnya adalah DevC++, Microsoft Visual Studio, CodeBlocks, NetBeans, Eclips, dll.
+| Char | Integer | Float | Array |
+| Structure | Pointer | Enum | Void |
 
-__F. Integrated Development Environment (IDE)__
-* IDE atau Integrated Development Environment adalah software atau perangkat lunak yang digunakan oleh programmer untuk membuat sebuah program komputer atau sebagai tempat pengembangan aplikasi. Berbeda dengan text editor seperti notepad, IDE merupakan text editor yang memiliki compiler dan debugger sekaligus sehingga memungkinkan sebuah program dapat ditulis, diuji, dan dijalankan dalam satu aplikasi. IDE memiliki banyak fitur yang mendukung proses pemrograman. Contohnya adalah DevC++, Microsoft Visual Studio, CodeBlocks, NetBeans, Eclips, dll.
 
-[link download IDE Dev-C++](https://www.embarcadero.com/free-tools/dev-cpp/free-download)
 
-<p>Find me on Instagram <a href="https://www.instagram.com/setyacarinaa/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@setyacarinaa!</a><br/>
+
+
+
